@@ -8,5 +8,11 @@ brew "eza"
 brew "git"
 # Vi 'workalike' with many additional features
 brew "vim"
+# Web browser
+cask "firefox"
+# Password manager app
+cask "keepassxc"
 # Web browser focused on privacy and on minimizing tracking and fingerprinting
 cask "mullvad-browser"
+# Email client
+cask "tuta-mail"
