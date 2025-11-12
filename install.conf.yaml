@@ -1,0 +1,24 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.config/bat:
+      create: true
+      path: config/bat
+    ~/.gitconfig:
+    ~/.vimrc:
+    ~/.zprofile:
+    ~/.zshenv:
+    ~/.zshrc:
+
+- create:
+    - ~/1_Code
+
+- shell:
+    - command: ./setup_homebrew.zsh
+      stdout: true
+      stderr: true
+      stdin: true
