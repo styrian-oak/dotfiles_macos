@@ -1,5 +1,7 @@
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Text-based personal organizer
+brew "calcurse"
 # Tool that bootstraps your dotfiles
 brew "dotbot"
 # Modern, maintained replacement for ls
