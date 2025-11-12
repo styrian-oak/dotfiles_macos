@@ -39,3 +39,6 @@ user_pref("browser.urlbar.groupLabels.enabled", false);
 
 // Enable WebGL
 //user_pref("webgl.disabled", false);
+
+// Disable sidebar
+user_pref("sidebar.revamp", false);
