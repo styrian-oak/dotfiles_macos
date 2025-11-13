@@ -42,3 +42,7 @@ user_pref("browser.urlbar.groupLabels.enabled", false);
 
 // Disable sidebar
 user_pref("sidebar.revamp", false);
+
+// Disable translations
+user_pref("browser.translations.automaticallyPopup", false);
+user_pref("browser.translations.enable", false);
