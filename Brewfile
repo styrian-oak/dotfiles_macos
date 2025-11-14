@@ -18,3 +18,5 @@ cask "keepassxc"
 cask "mullvad-browser"
 # Email client
 cask "tuta-mail"
+# Virtual machines UI using QEMU
+cask "utm"
