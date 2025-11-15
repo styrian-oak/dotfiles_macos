@@ -10,6 +10,8 @@ brew "eza"
 brew "git"
 # Vi 'workalike' with many additional features
 brew "vim"
+# Display management tool
+cask "betterdisplay"
 # Web browser
 cask "firefox"
 # Website and application blocker
