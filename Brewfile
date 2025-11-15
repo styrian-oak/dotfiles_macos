@@ -12,6 +12,8 @@ brew "git"
 brew "vim"
 # Web browser
 cask "firefox"
+# Website and application blocker
+cask "focus"
 # Password manager app
 cask "keepassxc"
 # Web browser focused on privacy and on minimizing tracking and fingerprinting
