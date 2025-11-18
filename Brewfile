@@ -8,6 +8,10 @@ brew "dotbot"
 brew "eza"
 # Distributed revision control system
 brew "git"
+# Feature-rich command-line audio/video downloader
+brew "yt-dlp"
+# Media player based on MPlayer and mplayer2
+brew "mpv"
 # Vi 'workalike' with many additional features
 brew "vim"
 # Display management tool
