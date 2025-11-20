@@ -46,3 +46,11 @@ user_pref("sidebar.revamp", false);
 // Disable translations
 user_pref("browser.translations.automaticallyPopup", false);
 user_pref("browser.translations.enable", false);
+
+// Disable credit card and address autofill
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.creditCards.enabled", false);
+user_pref("extensions.formautofill.heuristics.enabled", false);
+
+// Disable Firefox password saving for use with a different password manager
+user_pref("signon.rememberSignons", false);
